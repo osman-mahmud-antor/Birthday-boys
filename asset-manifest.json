@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Birthday-boys/static/css/main.a4fdef41.chunk.css",
+    "main.js": "/Birthday-boys/static/js/main.11d003dc.chunk.js",
+    "main.js.map": "/Birthday-boys/static/js/main.11d003dc.chunk.js.map",
+    "runtime-main.js": "/Birthday-boys/static/js/runtime-main.4fdcb411.js",
+    "runtime-main.js.map": "/Birthday-boys/static/js/runtime-main.4fdcb411.js.map",
+    "static/js/2.17b49047.chunk.js": "/Birthday-boys/static/js/2.17b49047.chunk.js",
+    "static/js/2.17b49047.chunk.js.map": "/Birthday-boys/static/js/2.17b49047.chunk.js.map",
+    "index.html": "/Birthday-boys/index.html",
+    "static/css/main.a4fdef41.chunk.css.map": "/Birthday-boys/static/css/main.a4fdef41.chunk.css.map",
+    "static/js/2.17b49047.chunk.js.LICENSE.txt": "/Birthday-boys/static/js/2.17b49047.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4fdcb411.js",
+    "static/js/2.17b49047.chunk.js",
+    "static/css/main.a4fdef41.chunk.css",
+    "static/js/main.11d003dc.chunk.js"
+  ]
+}
